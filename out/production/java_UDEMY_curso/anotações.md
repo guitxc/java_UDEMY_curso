@@ -8,7 +8,7 @@
   - Um caractere Unicode: char
 - Tipo String: cadeia de caracteres (palavras, textos)
 - Nomes de variáveis / padrão camel case "salarioDoFuncionario"
-
+---
 ## Saída de dados em Java
 - System.out.print
 - System.out.println
@@ -20,7 +20,7 @@
 - Locale
 - Como concatenar vários elementos em um mesmo comando de escrita
 - Exemplos
-
+---
 ## Processamento de dados em Java, Casting
 ### Comando de atribuição
 ```
@@ -35,7 +35,7 @@
    b = 2
   resultado = (double) a / b
   ```
-  
+  ---
 ## Entrada de dados em Java
 
 ### Scanner 
@@ -54,3 +54,19 @@
 ### Como ler até a quebra de linha
   - nextLine()
   - como limpar o buffer de leitura, consumir a quebra de linha que fica pendente
+---
+## Funções matemáticas em java
+- A = Math.sqrt(x); == Variável A recebe a raiz quadrada de x
+- A = Math.pow(x, y); == Variável A recebe o resultado de x elevado a y
+- A = Math.abs(x); == Variável A recebe o valor absoluto de x
+
+Funções de funções mais complexas
+
+```
+// Formula de Baskara
+- delta = Math.pow(b, 2.0) - 4*a*c;
+  x1 = (-b + Math.sqrt(delta)) / (2.0 * a);
+  x2 = (-b - Math.sqrt(delta)) / (2.0 * a);
+```
+---
+
