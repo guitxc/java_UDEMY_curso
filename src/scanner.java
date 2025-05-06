@@ -17,7 +17,7 @@ public class scanner {
         double z;
         z = sc.nextDouble();
         System.out.println("Voce digitou: " + z);
-        
+
         char v;
         v = sc.next().charAt(0);
         System.out.println("Voce digitou: " + v);
