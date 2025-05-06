@@ -1,2 +1,2 @@
-# Anotaçoes e exercicios de um curso de jva que estou fazendo
+# Anotaçoes e exercicios de um curso de java que estou fazendo
 
