@@ -80,21 +80,21 @@ public class listaDeExer1 {
         //c) a área do trapézio que tem A e B por bases e C por altura.
         //d) a área do quadrado que tem lado B.
         //e) a área do retângulo que tem lados A e B.
-//        System.out.println("Digte 3 valores com ponto flutuante");
-//        double A,B,C, tri, cir, trap, qua, ret, pi = 3.14159;
-//        A = sc.nextDouble();
-//        B = sc.nextDouble();
-//        C = sc.nextDouble();
-//        tri = (A * C) / 2;
-//        System.out.printf("a) a área do triângulo retângulo que tem A por base e C por altura é : %.3f%n",  tri);
-//        cir = (pi * Math.pow(C, 2));
-//        System.out.printf("b) a área do círculo de raio C é : %.3f%n",  cir);
-//        trap = ((A + B) * C) / 2;
-//        System.out.printf("c) a área do trapézio que tem A e B por bases e C por altura é : %.3f%n",  trap);
-//        qua = Math.pow(B, 2);
-//        System.out.printf("d) a área do quadrado que tem lado B é : %.3f%n",  qua);
-//        ret = A * B;
-//        System.out.printf("e) a área do retângulo que tem lados A e B é : %.3f%n",  ret);
+        System.out.println("Digte 3 valores com ponto flutuante");
+        double A,B,C, tri, cir, trap, qua, ret, pi = 3.14159;
+        A = sc.nextDouble();
+        B = sc.nextDouble();
+        C = sc.nextDouble();
+        tri = (A * C) / 2;
+        System.out.printf("a) a área do triângulo retângulo que tem A por base e C por altura é : %.3f%n",  tri);
+        cir = (pi * Math.pow(C, 2));
+        System.out.printf("b) a área do círculo de raio C é : %.3f%n",  cir);
+        trap = ((A + B) * C) / 2;
+        System.out.printf("c) a área do trapézio que tem A e B por bases e C por altura é : %.3f%n",  trap);
+        qua = Math.pow(B, 2);
+        System.out.printf("d) a área do quadrado que tem lado B é : %.3f%n",  qua);
+        ret = A * B;
+        System.out.printf("e) a área do retângulo que tem lados A e B é : %.3f%n",  ret);
 
 
 
