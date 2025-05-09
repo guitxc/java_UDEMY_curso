@@ -17,6 +17,7 @@
   - %f = double ou float
   - %s = texto
   - %n = quebra de linha
+  - - %.2f%n
 - Locale
 - Como concatenar vários elementos em um mesmo comando de escrita
 - Exemplos
