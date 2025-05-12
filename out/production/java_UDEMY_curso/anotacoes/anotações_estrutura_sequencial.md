@@ -1,3 +1,5 @@
+# Estrutura Sequencial
+---
 ## Variáveis tipos básicos do Java
 ### Conceito informal
 ### Declaração de variáveis: = valor;
