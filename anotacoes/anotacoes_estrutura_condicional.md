@@ -18,3 +18,10 @@
 ![img_1.png](../imagens/img_1.png)
 ### ! (não)
 ![img.png](../imagens/img_2.png)
+
+---
+
+## Estrutura condicional
+### if (se)
+### else if (ou se)
+### else (se não)
